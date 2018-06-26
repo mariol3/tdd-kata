@@ -1,12 +1,10 @@
-package it.addiction.learning;
+package me.mariogrimaldi.learning;
 
-import java.util.ArrayList;
-import java.util.List;
 import java.util.Objects;
 import java.util.Stack;
 
 /**
- * Created by Mario Grimaldi <m.grimaldi@addiction.it> with <3
+ * Created by Mario Grimaldi <mario.grimaldi89@gmail.com> with <3
  */
 public class RecentlyUsedList {
     private static final int UNLIMTED = Integer.MAX_VALUE;

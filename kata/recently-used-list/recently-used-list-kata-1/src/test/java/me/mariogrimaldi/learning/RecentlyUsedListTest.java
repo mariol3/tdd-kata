@@ -1,11 +1,13 @@
-import it.addiction.learning.RecentlyUsedList;
+package me.mariogrimaldi.learning;
+
+import me.mariogrimaldi.learning.RecentlyUsedList;
 import org.junit.Before;
 import org.junit.Test;
 
 import static org.junit.Assert.*;
 
 /**
- * Created by Mario Grimaldi <m.grimaldi@addiction.it> with <3
+ * Created by Mario Grimaldi <mario.grimaldi89@gmail.com> with <3
  */
 public class RecentlyUsedListTest {
 
